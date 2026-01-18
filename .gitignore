@@ -1,0 +1,8 @@
+.env
+.vscode
+/logs
+logs
+__pycache__
+*.pyc
+backups/*
+servers.json
